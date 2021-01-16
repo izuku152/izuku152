@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to Learn with other Vue Learners
 - 🥅 2021 Goals: Efficient with Vue and Node JS
-- ⚡ Fun fact: I love to watch Netflix
+- ⚡ Fun fact: I love to watch Netflix 🤣
 
 ### Connect with me:
 
