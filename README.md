@@ -35,9 +35,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Izuku's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=izuku152&show_icons=true&hide_border=true" />
-
 </details>
 
 [twitter]: https://twitter.com/Izuku152
