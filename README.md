@@ -1,6 +1,6 @@
 ### Hi there, I'm Hassan - aka Izuku Midoriya 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Izuku152?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIzuku152&screen_name=IzukuMidoriya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Izuku152?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIzuku152&screen_name=Izuku Midoriya)
 
 ## I'm a Student, Developer, and Fast Learner!!
 
